@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=E46A8E&text=Hello%World!&fontColor=5D4A58)
 
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+
 <!--
 **soriii1/soriii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
