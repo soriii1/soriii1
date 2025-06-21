@@ -1,5 +1,5 @@
 ## HI!
-![header](https://capsule-render.vercel.app/api?type=bulr)
+![header](https://capsule-render.vercel.app/api?type=blur)
 
 
 <!--
