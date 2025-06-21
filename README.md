@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=E46A8E&text=Hello%World!&align=center&fontColor=5D4A58)
 
 <div align="center">
-  👋 welcom to my github profile !
+   :wave: welcom to my github profile !
 </div>
  
 
