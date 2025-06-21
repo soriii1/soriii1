@@ -1,5 +1,5 @@
-
-![header](https://capsule-render.vercel.app/api?type=bulr&text=Hithere)
+## HI!
+![header](https://capsule-render.vercel.app/api?type=bulr)
 
 
 <!--
