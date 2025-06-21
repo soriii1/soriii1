@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=E46A8E&text=Hello%World!&fontColor=5D4A58)
 
+ 👋 welcom to my github profile !
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 
 <!--
