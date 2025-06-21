@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=E46A8E&text=I'm%20sori☺️&align=center&fontColor=5D4A58)
+![header](https://capsule-render.vercel.app/api?type=blur&color=E46A8E&align=center)
 
 <div align="center">
    :wave: welcom to my github profile !
